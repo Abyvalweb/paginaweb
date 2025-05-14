@@ -15,14 +15,13 @@
 
 <P><img src="ceb.jpg">
 
+</dev>
 <a href="[file:///E:/Pagina1.html](https://abyvalweb.github.io/pagina1/">pagina 1</a>
 <a href="[file:///E:/Pagina2.html](https://abyvalweb.github.io/pagina2/">pagina 2</a>
 <a href="[file:///E:/Pagina%203.html](https://abyvalweb.github.io/pagina3/">pagina 3</a>
 <a href="[file:///E:/Pagina%204.html](https://abyvalweb.github.io/pagina3/">pagina 4</a>
 <a href="[file:///E:/Pagina%205.html](https://abyvalweb.github.io/pagina3/">pagina 5</a>
+</dev>
 
 
 
-
-</BODY>
-</HTML>
